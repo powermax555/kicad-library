@@ -1257,7 +1257,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:UQFN-20_3x3mm_P0.4mm"
+		(property "Footprint" "SE050C2HQ1_Z01SDZ:QFN40P300X300X33-21N"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
