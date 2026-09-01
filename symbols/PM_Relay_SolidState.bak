@@ -2147,7 +2147,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://30678797.s21i.faiusr.com/61/3/ABUIABA9GAAg-6uUuwYohKyWtgc.pdf"
+		(property "Datasheet" ""
 			(at 0 -12.065 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2158,19 +2158,8 @@
 				)
 			)
 		)
-		(property "Description" "SSR RELAY SPST-NO 1.0A 0-60V"
+		(property "Description" "SSR RELAY SPST-NO 3.5A 0-40V"
 			(at 0 -22.225 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "APSEMI"
-			(at 0 -19.05 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
